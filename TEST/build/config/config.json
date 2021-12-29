@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1B35D14B0bB9caFFd48B5C3C828b27A54EBEd5Aa",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x1b35d14b0bb9caffd48b5c3c828b27a54ebed5aa",
+  "NETWORK": {
+    "NAME": "ETHERSCAN",
+    "SYMBOL": "RINKEBY",
+    "ID": 4
+  },
+  "NFT_NAME": "PLANETA MANZANA",
+  "SYMBOL": "THE MOST EXCITING MANZANA FOR YOUR LIFE",
+  "MAX_SUPPLY": 12,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/planeta-manzana",
+  "SHOW_BACKGROUND": true
+}
